@@ -16,4 +16,6 @@ library("devtools")
 install_github("deepayan/tessella/tessella")
 install_github("deepayan/tessella/quilt")
 install_github("deepayan/yagpack/yagpack")
+install_github("deepayan/yagpack/yp.lattice")
+
 ```
